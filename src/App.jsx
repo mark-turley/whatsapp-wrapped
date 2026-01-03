@@ -137,7 +137,7 @@ function App() {
                   audioRef.current.volume = Math.max(0, audioRef.current.volume - 0.1);
               } else {
                   clearInterval(fadeOut);
-                  audioRef.current.src = `/music/${song.file}`;
+                  audioRef.current.src = `music/${song.file}`;
                   audioRef.current.currentTime = song.start;
                   audioRef.current.play().then(() => {
                       // Fade in
