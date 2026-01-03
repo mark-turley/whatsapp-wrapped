@@ -1,0 +1,666 @@
+{
+    "intro": {
+        "year": 2025,
+        "title": "Our First Year Together"
+    },
+    "total_messages": {
+        "count": 31833,
+        "per_day": 78
+    },
+    "authors": [
+        "Eva",
+        "Mark"
+    ],
+    "author_stats": {
+        "Mark": 16553,
+        "Eva": 15280
+    },
+    "time_stats": {
+        "peak_hours": {
+            "Eva": 23,
+            "Mark": 23
+        },
+        "hourly_distribution": {
+            "Eva": [
+                1096,
+                437,
+                198,
+                206,
+                165,
+                130,
+                236,
+                230,
+                287,
+                489,
+                767,
+                505,
+                668,
+                707,
+                713,
+                726,
+                662,
+                767,
+                924,
+                889,
+                907,
+                1050,
+                1164,
+                1357
+            ],
+            "Mark": [
+                1255,
+                474,
+                146,
+                120,
+                44,
+                54,
+                110,
+                196,
+                467,
+                743,
+                893,
+                715,
+                693,
+                710,
+                642,
+                729,
+                781,
+                930,
+                947,
+                1029,
+                997,
+                1172,
+                1236,
+                1470
+            ]
+        },
+        "latest_chat": {
+            "time": "04:58 on 01/12/2025",
+            "author": "Mark"
+        }
+    },
+    "vibe_graph": {
+        "labels": [
+            "2024-11-11",
+            "2024-11-18",
+            "2024-11-25",
+            "2024-12-02",
+            "2024-12-09",
+            "2024-12-16",
+            "2024-12-23",
+            "2024-12-30",
+            "2025-01-06",
+            "2025-01-13",
+            "2025-01-20",
+            "2025-01-27",
+            "2025-02-03",
+            "2025-02-10",
+            "2025-02-17",
+            "2025-02-24",
+            "2025-03-03",
+            "2025-03-10",
+            "2025-03-17",
+            "2025-03-24",
+            "2025-03-31",
+            "2025-04-07",
+            "2025-04-14",
+            "2025-04-21",
+            "2025-04-28",
+            "2025-05-05",
+            "2025-05-12",
+            "2025-05-19",
+            "2025-05-26",
+            "2025-06-02",
+            "2025-06-09",
+            "2025-06-16",
+            "2025-06-23",
+            "2025-06-30",
+            "2025-07-07",
+            "2025-07-14",
+            "2025-07-21",
+            "2025-07-28",
+            "2025-08-04",
+            "2025-08-11",
+            "2025-08-18",
+            "2025-08-25",
+            "2025-09-01",
+            "2025-09-08",
+            "2025-09-15",
+            "2025-09-22",
+            "2025-09-29",
+            "2025-10-06",
+            "2025-10-13",
+            "2025-10-20",
+            "2025-10-27",
+            "2025-11-03",
+            "2025-11-10",
+            "2025-11-17",
+            "2025-11-24",
+            "2025-12-01",
+            "2025-12-08",
+            "2025-12-15",
+            "2025-12-22",
+            "2025-12-29"
+        ],
+        "data": [
+            0.3283633207070707,
+            0.1406123307994573,
+            0.15409888568221902,
+            0.18700961111447545,
+            0.1892795978040339,
+            0.21431245029691973,
+            0.2118753397789463,
+            0.14372073031998706,
+            0.21264926514075347,
+            0.16014059770567368,
+            0.1407671450060181,
+            0.20875707185756565,
+            0.16285284335006556,
+            0.19050295392344863,
+            0.16975608036906115,
+            0.2014802039363952,
+            0.18526202179103965,
+            0.17514690834637828,
+            0.16766212254097218,
+            0.18566229979695345,
+            0.19960039743896527,
+            0.2031377619302088,
+            0.21414973321588926,
+            0.15882227757973605,
+            0.13094663643800158,
+            0.14983824126351336,
+            0.18691601653052653,
+            0.1451494404210601,
+            0.1595452332952333,
+            0.20113257712794752,
+            0.13806154060291295,
+            0.16738526773650508,
+            0.15855346052601912,
+            0.1386183952025231,
+            0.1158500480040455,
+            0.11638224841002617,
+            0.10190395843534372,
+            0.12593078323311876,
+            0.19845191370321713,
+            0.1680871213492678,
+            0.16568594215404328,
+            0.13752907644809478,
+            0.15659307665883682,
+            0.14925419805345602,
+            0.12147373236840242,
+            0.1320038644051789,
+            0.13441260752676493,
+            0.14761738592441853,
+            0.1418358116432693,
+            0.17040846234741888,
+            0.15676285065284543,
+            0.11956359337666572,
+            0.12833333333333333,
+            0.12685498559065894,
+            0.157854237174404,
+            0.15337316561420442,
+            0.14185250149555106,
+            0.12094581462304496,
+            0.17281142034322527,
+            0.175857498982499
+        ]
+    },
+    "happiest_day": {
+        "date": "2025-04-09",
+        "score": 0.4545238095238095,
+        "explanation": "You both experienced a day filled with consistent affection, mutual support, and shared excitement for the future. You started the morning expressing how much joy you get simply from waking up to each other's texts, establishing a loving tone immediately. Throughout the day, you championed each other's professional lives—encouraging the upcoming presentation and celebrating getting off being on-call at a reasonable hour. The evening was defined by shared happiness, with one of you \"having a blast\" with friends and immediately wanting to include the other in that joy next time, while the other celebrated a personal win with a \"banging\" homemade dinner. Above all, the day was underscored by an eagerness to connect through voice notes and a genuine anticipation to see each other on Friday."
+    },
+    "most_texts_day": {
+        "date": "2025-10-08",
+        "count": 524,
+        "summary": "On October 8, 2025, you two set your all-time daily texting record with a massive 524 messages while Eva was traveling in South America and Mark was back home. It was a day full of excitement for the future, as you busily planned your new home together, discussing everything from couch covers to prioritizing a big comfy bed. You also shared a laugh over a crazy \"small world\" connection involving Darragh and Ciaran's brother.\n\nMark, you braved a trip to the dentist (and the dreaded rubber dam!), and though you had a brief moment of feeling a bit off, Eva was right there with unwavering support and a comforting call that helped turn the day around. The rest of the conversation was defined by how much you missed each other—counting down the days until your reunion in Cusco, joking about apple cider vinegar cures, and playfully debating an \"adult expansion pack\" for a card game. It was a day that showed just how strong your connection remained, even oceans apart."
+    },
+    "word_counts": {
+        "love": 1698,
+        "funny_word": "pookie",
+        "funny_word_count": 13
+    },
+    "top_emojis": [
+        {
+            "emoji": "❤",
+            "count": 1410
+        },
+        {
+            "emoji": "🥰",
+            "count": 740
+        },
+        {
+            "emoji": "😅",
+            "count": 652
+        },
+        {
+            "emoji": "🤣",
+            "count": 544
+        },
+        {
+            "emoji": "😊",
+            "count": 339
+        }
+    ],
+    "travel_map": [
+        {
+            "name": "Malta",
+            "coords": [
+                35.9375,
+                14.3754
+            ],
+            "who": "Together",
+            "photos": [
+                "/travel_photos/Malta/IMG-20250329-WA0021.jpg",
+                "/travel_photos/Malta/IMG-20250327-WA0028.jpg",
+                "/travel_photos/Malta/20250328_124109.jpg",
+                "/travel_photos/Malta/bereal-2025-03-28-0428.jpeg"
+            ]
+        },
+        {
+            "name": "London, UK",
+            "coords": [
+                51.5074,
+                -0.1278
+            ],
+            "who": "Together",
+            "photos": [
+                "/travel_photos/London/20250706_123626.jpg",
+                "/travel_photos/London/20250706_212118.jpg",
+                "/travel_photos/London/20250707_174846.jpg",
+                "/travel_photos/London/20250706_190719.jpg"
+            ]
+        },
+        {
+            "name": "Northern Ireland",
+            "coords": [
+                54.7877,
+                -6.4923
+            ],
+            "who": "Together",
+            "photos": [
+                "/travel_photos/Northern Ireland/20250503_143302.jpg",
+                "/travel_photos/Northern Ireland/20250503_173815.jpg",
+                "/travel_photos/Northern Ireland/20250503_170144(0).jpg",
+                "/travel_photos/Northern Ireland/20250503_143139.jpg"
+            ]
+        },
+        {
+            "name": "La Manga, Spain",
+            "coords": [
+                37.6396,
+                -0.7183
+            ],
+            "who": "Together",
+            "photos": [
+                "/travel_photos/La Manga/IMG-20250917-WA0463.jpg",
+                "/travel_photos/La Manga/20250915_201041.jpg",
+                "/travel_photos/La Manga/20250913_012948.jpg",
+                "/travel_photos/La Manga/20250913_202636.jpg"
+            ]
+        },
+        {
+            "name": "Peru",
+            "coords": [
+                -12.0464,
+                -77.0428
+            ],
+            "who": "Together",
+            "photos": [
+                "/travel_photos/Peru/VideoCapture_20251111-085407.jpg",
+                "/travel_photos/Peru/20251114_100314.jpg",
+                "/travel_photos/Peru/20251115_151547.jpg",
+                "/travel_photos/Peru/20251116_181151.jpg"
+            ]
+        }
+    ],
+    "double_texter": {
+        "winner": "Mark",
+        "ratios": {
+            "Eva": 0.6555628272251309,
+            "Mark": 0.682051591856461
+        }
+    },
+    "speedy_responder": {
+        "times": {
+            "Eva": "10 mins",
+            "Mark": "8 mins"
+        },
+        "raw_seconds": {
+            "Eva": 653.6354273944387,
+            "Mark": 525.3168155970756
+        }
+    },
+    "laughter": {
+        "counts": {
+            "Eva": 1574,
+            "Mark": 3018
+        },
+        "longest_haha": {
+            "text": "Hahahahahahaha",
+            "author": "Eva"
+        }
+    },
+    "goodnight_streak": 8,
+    "goodmorning_streak": 25,
+    "first_messages": [
+        {
+            "author": "Eva",
+            "date": "16/11/2024",
+            "message": "Thank youuu"
+        },
+        {
+            "author": "Mark",
+            "date": "16/11/2024",
+            "message": "Bahaha I genuinely couldn't have taken worse photos if I tried 😆"
+        }
+    ],
+    "conversation_starters": {
+        "Eva": 205,
+        "Mark": 179
+    },
+    "monthly_summaries": [
+        {
+            "month": "November",
+            "year": 2024,
+            "data": {
+                "summary": "In November, your relationship struck a lovely balance between playful teasing and deepening emotional connection. You started the month bonding over gym sessions, sore muscles, and undigested burgers, while playfully competing about running stamina. The month was highlighted by a fun weekend visit that included 'prinks,' a night out in town, and a sweet exchange where Mark brought Eva flowers. You navigated travel logistics between Galway and Dublin, with Eva stepping in to drive to Powerscourt to save Mark the energy. Most importantly, you shared a significant, honest conversation that you both appreciated, leaving you excited to see each other again despite a looming cold sore scare.",
+                "memorable_moment": " The trip to Powerscourt, where Eva picked Mark up to save him from driving after his trip from Galway, leading to a lovely day out and a meaningful conversation.",
+                "nice_text": "Thanks! And thanks a mil for today too, had another super lovely time and really glad we had that chat, I really appreciate you being upfront about it and being so understanding.",
+                "events_list": [
+                    "Joked about bad photography skills",
+                    "Went to the gym together (and regretted eating a burger beforehand)",
+                    "Mark visited Eva for a weekend trip",
+                    "Had pre-drinks and a night out in town",
+                    "Mark gave Eva flowers",
+                    "Discussed Fiona's successful date",
+                    "Exchanged music recommendations like Dv4d and Stephen Sanchez",
+                    "Mark drove from Galway to Dublin",
+                    "Eva picked Mark up for a trip to Powerscourt",
+                    "Had a serious and appreciative conversation about your relationship"
+                ]
+            }
+        },
+        {
+            "month": "December",
+            "year": 2024,
+            "data": {
+                "summary": "In December 2024, your relationship was defined by a blend of domestic troubleshooting and the excitement of making things official. You supported each other through mundane headaches like check engine lights, broken freezers, and long work weeks, all while coordinating meetups around train schedules and hangovers. The vibe shifted from casual hangouts to a celebration of your new status, ending the month on a high note as you shared the happy news with friends and family before ringing in the New Year.",
+                "memorable_moment": "The aftermath of 'the asking' when you made your relationship official, leaving Eva smiling ear-to-ear at the bus stop and Mark's parents 'over the moon' about the news.",
+                "nice_text": "I was honestly smiling ear to ear waiting for the bus I'm so happy and excited for us 🥰",
+                "events_list": [
+                    "Mark struggled with a check engine light and an oil change",
+                    "Eva dealt with a broken freezer and electricity issues",
+                    "Eva's sister won her football match",
+                    "Mark started with a new team at work",
+                    "You met in Greystones for a hike",
+                    "Mark went shopping in Dundrum with Tom",
+                    "You officially became a couple",
+                    "Eva traveled to Galway for New Year's Eve",
+                    "Mark dropped off Prosecco to a neighbor",
+                    "You looked out for the Northern Lights on New Year's Eve"
+                ]
+            }
+        },
+        {
+            "month": "January",
+            "year": 2025,
+            "data": {
+                "summary": "Your January kicked off with a chaotic but affectionate New Year's, where despite being apart, you were obsessively talking about each other to anyone who would listen. You navigated the aftermath of a wild night—including Mark's swollen nose and Eva's hungover bus journey—with humor and mutual support. As the month progressed, your bond deepened through shared excitement over Mark's new full-time job news and late-night sentimental texts, proving that you are building something special and supportive while eagerly counting down the minutes until your next cuddle.",
+                "memorable_moment": "Realizing on New Year's Day that you had both spent the previous night drunkenly bragging about your relationship to everyone—from Mark's friends at Sam's party to the random strangers Eva cornered in Galway.",
+                "nice_text": "I was thinking a few times earlier how thankful I am for everything we're building and I just wanted to say how much I appreciate you 🤗🤗.",
+                "events_list": [
+                    "Sent virtual kisses to each other at midnight on New Year's Eve",
+                    "Sam accidentally punched Mark in the nose while gesturing at a party",
+                    "Eva survived a 'grim' early morning bus journey while severely hungover",
+                    "Mary vomited in the smoking area during Eva's night out with the girls",
+                    "Mark officially got approved for a full-time job starting in mid-February",
+                    "Eva worked a series of three night shifts",
+                    "Updated contact photos for each other after a cute picture exchange",
+                    "Mark offered to be designated driver so Eva could have a drink (though she stuck to zeros)",
+                    "Valerie and Evan expressed excitement to meet Eva",
+                    "Mark dealt with a knee issue that might require a physio visit"
+                ]
+            }
+        },
+        {
+            "month": "February",
+            "year": 2025,
+            "data": {
+                "summary": "In February, your relationship was characterized by supportive cheerleading through busy work weeks and chaotic car troubles. You navigated Eva's run of night shifts and Mark's run-ins with the guards while maintaining a playful connection through inside jokes about 'Sickentines Day.' The month focused on balancing individual time with friends and gym sessions, all leading up to an exciting, well-deserved weekend reunion involving a fixed car and bakery plans.",
+                "memorable_moment": "Mark getting recognized by a stranger on the bus solely by his voice from his old UCD podcast days, which you both found hilarious.",
+                "nice_text": "Ahh well done you, very proud 🥰",
+                "events_list": [
+                    "Eva completing a run of three night shifts",
+                    "Mark playing tennis against a squash wall and hurting his knee",
+                    "Mark getting pulled over by the guards twice in Sandymount but getting off with warnings",
+                    "Eva taking a 'biblical' snooze after finishing work",
+                    "Mark going to the gym and working on an app with Tom",
+                    "Catching up with friends in Dalkey for pints",
+                    "Mark getting his car brakes fixed just in time for the weekend",
+                    "Planning a Saturday morning trip to Elliot's Bakery",
+                    "Mark being recognized by a tourist on the bus from his podcast voice",
+                    "Meeting up to celebrate 'Sickentines Day' together"
+                ]
+            }
+        },
+        {
+            "month": "March",
+            "year": 2025,
+            "data": {
+                "summary": "In March, your relationship was defined by deep emotional support, music, and anticipation for your upcoming travels. You focused on mental well-being, encouraging each other to use journaling and get early nights to process big emotions, reinforcing your belief that you can get through anything together. You shared sentimental music recommendations and coordinated the logistics for your trip to Malta, managing disappointment over the rainy forecast with optimism and humor. Despite a rough day at work and some last-minute packing procrastination, you prioritized comforting each other with cuddles and excitement for your getaway.",
+                "memorable_moment": "The night before your flight to Malta on March 25th, when Mark offered a 'big huge enormous bear hug' to help fix a bad day at work while you both scrambled to finish packing.",
+                "nice_text": "One of my favourites of all time and I now can't help but associate it with you cause of how happy you make me 💛",
+                "events_list": [
+                    "Navigating 'big emotions' after a heavy weekend by journaling and prioritizing sleep",
+                    "Sharing the 'Nation of Two' album on Spotify as a comfort listen",
+                    "Finding Eva's missing top in Mark's sister's room",
+                    "Booking time off work for the Malta trip from March 26th to 31st",
+                    "Stressing about the rainy weather forecast in Malta while Mary was already there",
+                    "Mark having a rough day at work and needing extra cuddles",
+                    "Procrastinating on packing the night before the flight",
+                    "Meeting up on Tuesday night to stay over and head to the airport together"
+                ]
+            }
+        },
+        {
+            "month": "April",
+            "year": 2025,
+            "data": {
+                "summary": "In April, your relationship was defined by a sweet mixture of busy schedules and deep affection. You both balanced work stress and course mishaps—like Mark ending up in the wrong room—with constant reassurance and humor. Even when separated by late nights at the office or dead phone batteries, you made sure to express immense gratitude for recent times spent together, constantly reminding each other how proud and grateful you are to be a couple.",
+                "memorable_moment": "The moment Mark sent such a heartfelt message about being proud to be with Eva that it actually made her blush while she was standing at the Luas stop.",
+                "nice_text": "Don't mention it! Aw you honestly do the absolute most you show me everyday in your words and actions, I am so grateful for you and I just wanna be the very best version of myself for you because you deserve nothing less",
+                "events_list": [
+                    "Mark running late for a course due to Luas issues",
+                    "Eva facing 200 emails at work and missing her time off",
+                    "Mark accidentally sitting in the wrong classroom for his course",
+                    "Discussion about Electric Picnic tickets potentially becoming available",
+                    "Eva getting stuck at work late and having to skip the gym",
+                    "Mark going for a run on a bright evening",
+                    "Confusion over whether Shashank's girlfriend, Pari, goes to RCSI or Trinity",
+                    "Mark going out for drinks and Thai food (spring rolls and ginger sesame chicken) with colleagues",
+                    "Eva and Oisin starting their beer brewing process at home",
+                    "Mark attempting to send a voice note but his phone dying before it recorded"
+                ]
+            }
+        },
+        {
+            "month": "May",
+            "year": 2025,
+            "data": {
+                "summary": "In May 2025, your relationship was defined by a lovely mix of dreamy future planning and supportive daily connection. You spent time sharing links to multi-million euro dream homes in Dundrum and Killiney, joking about how obsessive you will be when you eventually buy one. There was a lot of excitement building for an upcoming trip, with Eva sending packing guides and reminders for swimming togs. Despite busy schedules involving family gatherings, 'prinks,' and concerts, you kept each other close with long voice notes and sweet check-ins. You also bonded over small joys like 'elite' pizza, dodging rain showers with croissant bags, and ensuring you both felt supported and loved.",
+                "memorable_moment": "Bonding over the 'dream house' listings in the Irish Times, specifically a home with a cinema and pool, and agreeing that it is a matter of 'when not if.'",
+                "nice_text": "Oh my goodness my jaw actually dropped you are utterly drop dead gorgeous wow. I love the earrings as well, so fun!! Sad I won't get to see it in person but thanks so much for sending a pic, you honestly look incredible 💗",
+                "events_list": [
+                    "Shared links to luxury homes in Dundrum and Killiney.",
+                    "Eva created a packing guide for an upcoming trip.",
+                    "Mark attended 'prinks' and a concert.",
+                    "Eva went to a family gathering.",
+                    "Speculated that Melissa might be pregnant due to a sisters' dinner.",
+                    "Used a croissant bag to protect hair during a rain shower.",
+                    "Ate 'elite' pizza on fluffy bread and planned to recreate it.",
+                    "Eva enjoyed brunch and drinks in the sun.",
+                    "Mark brought croissants and Vitamin C.",
+                    "Discussed cancelling car insurance."
+                ]
+            }
+        },
+        {
+            "month": "June",
+            "year": 2025,
+            "data": {
+                "summary": "In June 2025, your relationship was defined by deep affection, anniversary celebrations, and the excitement of spending a 'sneak peek' week together where you saw each other almost every day. The vibe was incredibly supportive and romantic, with both of you constantly expressing pride in one another and listening to each other's voice notes as a treat. Between logistical planning for work, counselling, and lifts, you prioritized spending time together and looked forward to future adventures like camping.",
+                "memorable_moment": "Celebrating your anniversary and acknowledging that spending the whole week together felt like a wonderful preview of your shared future.",
+                "nice_text": "Heading to sleep now my dear. I'm smiling ear to ear thinking about our anniversary. What a special thing we have, I promise to always cherish it. You are my whole world I love you with all my heart.",
+                "events_list": [
+                    "Eva went to a great concert with friends.",
+                    "You planned a camping trip to Achill, potentially with Ciara and David.",
+                    "Eva gave Mark a lift to work, arriving just a little late.",
+                    "Mark waited in a coffee shop before his shift.",
+                    "Mark powered through a tough exercise session and felt proud afterward.",
+                    "Eva completed her Spanish homework.",
+                    "Mark gave his dad a lift to the airport.",
+                    "You celebrated your anniversary.",
+                    "Mark had a minor but funny accident that hurt his nose.",
+                    "You coordinated schedules around a counselling appointment."
+                ]
+            }
+        },
+        {
+            "month": "July",
+            "year": 2025,
+            "data": {
+                "summary": "In July, your relationship was defined by a mix of romantic anticipation and unwavering support during a crisis. You started the month counting down the hours until you could reunite after long travels and a Noah Kahan concert, managing to squeeze in a cozy sleepover despite tight work schedules. When the weekend plans hit a snag with a car breakdown in Waterford, you worked together seamlessly; one of you handled the roadside stress while the other stepped up to secure AA membership and a towing plan. Despite the chaos, you prioritized each other's peace of mind and ended the month ready to enjoy your bank holiday festival camping trip.",
+                "memorable_moment": "The collaborative effort to solve the car breakdown in Portlaw, where you navigated insurance issues and arranged a rescue plan so you could still enjoy the festival.",
+                "nice_text": "I wish I was there sm too, you'll be getting the absolute biggest hug tomorrow when I see you",
+                "events_list": [
+                    "Counting down to a reunion after a 24-hour business class journey",
+                    "Attending a Noah Kahan concert",
+                    "Sharing a short mid-week sleepover with an ambitious 6:15 AM wake-up call",
+                    "Breaking down in the car behind a Centra in Portlaw, Waterford",
+                    "Getting picked up by Sarah to go to the campsite",
+                    "David missing the trip because he was sick",
+                    "Signing up for AA Rescue Plus to ensure the car could be towed to Dublin",
+                    "Setting up a massive tent for the festival weekend",
+                    "Planning the car logistics for Bank Holiday Monday",
+                    "Buying surprise treats to cheer each other up"
+                ]
+            }
+        },
+        {
+            "month": "August",
+            "year": 2025,
+            "data": {
+                "summary": "In August 2025, your relationship was defined by high energy, deep affection, and the excitement of reuniting for a festival weekend. You worked as a team to navigate logistics, with Mark setting up camp early and Eva managing social catchups and arrival plans. Despite the chaos of car situations, long queues, and dying phone batteries, your vibe remained incredibly romantic and supportive. You constantly reassured each other of your love, counting down the minutes until you could be in each other's arms, proving that just being together was the highlight of your month.",
+                "memorable_moment": "The chaotic but exciting mission to find each other at the festival on the evening of August 29th, navigating the Silver entrance, low phone batteries, and confusing landmarks near the Pink Moon box.",
+                "nice_text": "I'm so buzzing to see you tomorrow you're literally my favourite person ever I just wanna spend all of my time with you nonstop hahaha.",
+                "events_list": [
+                    "Eva having a two-hour phone catchup with Tom",
+                    "Mark setting up the tent, mattress, and cutlery ahead of time",
+                    "Eva watching 'Le Boom' and bumping into friends like Sadbh, Darragh, and Peter",
+                    "Eva dealing with a car situation and ending up camping with the scouts",
+                    "Mark planning a haircut on his lunch break before driving down",
+                    "Discussing buying a bag from Sports Direct for future trips to Achill or Peru",
+                    "Coordinating a meetup spot near the Londis landmark at the campsite",
+                    "Mark logging off work at 4 PM to drive to the festival",
+                    "Dealing with long queues and waiting at the exit to finally meet up",
+                    "Planning ahead for Electric Picnic and a trip to Peru"
+                ]
+            }
+        },
+        {
+            "month": "September",
+            "year": 2025,
+            "data": {
+                "summary": "In September, your relationship was defined by a supportive long-distance dynamic as you navigated different time zones and busy schedules. While Mark was adventuring in Panama, battling humidity and nosebleeds, Eva was holding down the fort at home, preparing for future travels with vaccines and managing work shifts in Mullingar. You both put effort into staying connected, sharing music recommendations and trying to squeeze in calls between boat trips and dentist appointments, all while coordinating upcoming plans for a reunion in Galway.",
+                "memorable_moment": "Mark befriending Eduardo, an Orthopedics consultant, on the flight to Panama, who ended up taking him on a local tour of the colorful tourist spots.",
+                "nice_text": "Listened to this earlier thank you for sending it on youre the sweetest 🥰🥰",
+                "events_list": [
+                    "Shared excitement over CMAT's new album release",
+                    "Mark traveled to Panama and dealt with the intense humidity",
+                    "Eva received travel vaccines including HepA, rabies, and yellow fever",
+                    "Mark managed a persistent nosebleed while traveling",
+                    "Planned a trip to Galway for after a dinner with 'the bios'",
+                    "Eva decided to take two ED shifts in Mullingar to reduce work pressure",
+                    "Mark went on a tour with Eduardo, an Ortho consultant he met on the plane",
+                    "Eva treated herself to getting her nails done and a relaxing evening",
+                    "Attempted to coordinate a video call despite the time difference and Mark's boat trip",
+                    "Eva attended a dentist appointment in Dublin"
+                ]
+            }
+        },
+        {
+            "month": "October",
+            "year": 2025,
+            "data": {
+                "summary": "In October, your relationship was defined by a sweet and dedicated effort to stay connected across time zones while Eva was traveling and Mark was feeling under the weather. You both prioritized hearing each other's voices, with Eva waking up early to call before her boat trip and Mark cancelling appointments to rest and chat. The vibe was full of longing, Irish endearments, and excitement, even as you navigated missed calls and the scandalous surprise of bumping into Paul in Medellin.",
+                "memorable_moment": "The shock and 'scandalous' reaction when Eva spotted Paul from Galway while she was in Medellin.",
+                "nice_text": "I plan on getting up extra early to give you a ring tomorrow as you totally mean the world to me and it doesnt feel right that I havent spoken to you yet!",
+                "events_list": [
+                    "Eva went out for sushi before preparing for a big adventure",
+                    "Mark felt under the weather and cancelled his dentist and counselling appointments",
+                    "You coordinated a specific time to call before Eva went on a boat trip",
+                    "Eva hoped to find WiFi on an island",
+                    "Mark stayed home to rest based on Eva's advice",
+                    "Eva ran into Paul in Medellin",
+                    "You exchanged voice notes to bridge the time difference",
+                    "Eva stayed in a hostel"
+                ]
+            }
+        },
+        {
+            "month": "November",
+            "year": 2025,
+            "data": {
+                "summary": "In November 2025, your relationship was defined by the exciting final countdown of a ten-week long-distance period. You bridged the distance by sharing 'tea' and gossip across time zones, specifically tracking the drama between Tom and Holly. The vibe was a mix of playful banter about your future plans in Melbourne and deep longing as you prepared for Mark's return from Munich. You both expressed immense pride in how gracefully you handled the separation and finished the month buzzing with anticipation to finally be back in each other's arms.",
+                "memorable_moment": "The shared realization that you had successfully made it through ten weeks apart and were finally down to just a few days before Mark's flight home to Dublin.",
+                "nice_text": "Just need my Eva wrapped up in my arms ASAP now though where you belong",
+                "events_list": [
+                    "Gossiping about whether people would get together at a party",
+                    "Tracking the awkward saga of Tom turning down Holly",
+                    "Joking about never being invited back to the Halloween party",
+                    "Discussing your upcoming move to Melbourne next year",
+                    "Mark realizing he booked travel on a busy football match day",
+                    "Coordinating Mark's early morning train and flight schedule from Munich",
+                    "Celebrating the 'last letter' to be read before the reunion",
+                    "Both working extra hours to clear time for when Mark arrives",
+                    "Counting down the final 6 days until you see each other",
+                    "Mark sending a song for Eva to wake up to on December 1st"
+                ]
+            }
+        },
+        {
+            "month": "December",
+            "year": 2025,
+            "data": {
+                "summary": "In December 2025, your relationship was defined by a blend of supportive care from a distance and shared domestic planning. You navigated the challenges of time zones and health scares, specifically concerning a persistent stomach bug and a necessary medical appointment in Bogota. Despite the distance, you stayed connected through updates on daily life, from washing clothes and enjoying a sauna to debating the merits of different floral duvet covers. The month also saw you rallying around each other during professional frustrations, particularly when credit was missed for a work demo, proving that you always have each other's backs.",
+                "memorable_moment": "The supportive conversation where you validated the frustration regarding a work presentation given to the CEO without credit, leading to a resolve to demand a salary increase.",
+                "nice_text": "I love you too angel 🥰",
+                "events_list": [
+                    "Navigated communication across different time zones",
+                    "Planned to watch Stranger Things before the new season",
+                    "Booked a TMB appointment for a persistent stomach issue",
+                    "Browsed and vetted options for new duvet covers",
+                    "Mark handled the laundry chores",
+                    "Enjoyed a relaxing time in a sauna and hot tub",
+                    "Sent greetings to and from 'the gang'",
+                    "Tried to figure out family genealogy and connections to Roscommon",
+                    "Vented about coworkers presenting a demo to the CEO without credit",
+                    "Decided to push for a salary raise"
+                ]
+            }
+        }
+    ],
+    "memorable_moments": [
+        "Officially defining the relationship in December and sharing the happy news with family and friends",
+        "Celebrating their first anniversary in June and spending a special week together",
+        "Attending the Electric Picnic music festival together in August",
+        "Successfully completing a challenging 10-week period of long-distance separation",
+        "Solidifying plans to move to Melbourne together the following year"
+    ],
+    "quiz": {
+        "more_messages": "Mark",
+        "top_emoji": "❤",
+        "love_count": 1698
+    }
+}
